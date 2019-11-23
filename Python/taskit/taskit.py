@@ -45,7 +45,7 @@ def newTaskpaper():
 			removeThis = True
 		else:
 			newLines += line
-		
+
 		lastAsTask = thisAsTask
 		lastRemoved = removeThis
 		lastIndent = thisIndent
